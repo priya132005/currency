@@ -33,7 +33,7 @@ function App() {
     return (
         <div className="flex flex-wrap items-center justify-center w-full h-screen bg-no-repeat bg-cover" id='priya'
             style={{
-                backgroundImage: `url('https://images.pexels.com/photos/3943723/pexels-photo-3943723.jpeg?auto=compress&cs=tinysrgb&w=400')`,
+                backgroundImage: `url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3clit43UVGZnHvoDmy-0SMjEJNaFuN7RMpuJVtnoWog&s')`,
                 backgroundRepeat:'no-repeat',
                 justifyContent:'center',
             }}
