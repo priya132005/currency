@@ -29,7 +29,7 @@ function App() {
     <div
         className="flex flex-wrap items-center justify-center w-full h-screen bg-no-repeat bg-cover"
         style={{
-            backgroundImage: `url('https://c8.alamy.com/comp/GDJPF4/abstract-finance-world-currency-background-GDJPF4.jpg')`,
+            backgroundImage: `url('https://c8.alamy.com/comp/GDJPF4/abstract-finance-world-currency-background-GDJPF4.jpg')`
         }}
     >
         <div className="w-full">
